@@ -1,5 +1,7 @@
 # Hog Tests
 
+**[English README →](README.en.md)** · [中文报告](https://hoggqu.github.io/hog-tests/#zh)
+
 AI 模型与 Agent 的公开实验报告。 / Public experiments with AI models and agents.
 
 ## 在线报告 / Read the report
